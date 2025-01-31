@@ -1,0 +1,37 @@
+.add-items{
+    background-color: rgba(227, 214, 214, 0.91);
+    display: flex;
+    justify-content: space-around;
+    height:30px;
+    width:15%;
+    height:50px;
+    width:15%;
+}
+.last-items{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(227, 214, 214, 0.91);
+    height:40px;
+    width:15%;
+}
+.order{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(227, 214, 214, 0.91);
+    height:50px;
+    width:15%;
+
+}
+.side-bar{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap:30px;
+}
+.icon{
+    top:30%;
+   left: 10px;
+    position: relative;
+    height:20px;
+    width:25px;
+}

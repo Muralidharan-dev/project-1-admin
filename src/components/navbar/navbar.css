@@ -1,0 +1,19 @@
+.title{
+    color: rgb(246, 151, 42);
+    position: relative;
+    display: flex;
+    top:-23px;
+}
+.admin{
+
+    position: relative;
+    display: flex;
+    top:-23px;
+}
+.vertical-line {
+    border-left: 2px solid rgb(164, 159, 159);
+    height: 500px;
+    position: absolute;
+    left: 22%;
+    transform: translateX(-50%);
+}
