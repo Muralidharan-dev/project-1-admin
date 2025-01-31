@@ -6,7 +6,7 @@ import "react-toastify/dist/ReactToastify.css";
 
 
 const AddItems = () => {
-  const url = "http://localhost:3000";
+  const  url="https://project-1-backend-3ey1.onrender.com";
   const [formData, setFormData] = useState({
     image: null,
     name: '',
